@@ -1,0 +1,9 @@
+Color pantallas 
+R 240
+G 240
+B 240
+
+color solapas
+R 224
+G 224
+B 224
